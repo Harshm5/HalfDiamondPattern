@@ -1,4 +1,31 @@
-package testc;
+Half Diamond Pattern by coding ninjas
+
+Sample Input 1 :
+3
+Sample Output 1 :
+*
+*1*
+*121*
+*12321*
+*121*
+*1*
+*
+Sample Input 2 :
+ 5
+Sample Output 2 :
+*
+*1*
+*121*
+*12321*
+*1234321*
+*123454321*
+*1234321*
+*12321*
+*121*
+*1*
+*
+
+code:
 
 import java.util.Scanner;
 
